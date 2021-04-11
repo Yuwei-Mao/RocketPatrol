@@ -1,4 +1,5 @@
 //CMPM 120
+//UC Santa Cruz
 //game configuration
 let config = {
     type: Phaser.CANVAS,
