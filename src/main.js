@@ -1,5 +1,7 @@
 //CMPM 120
 //UC Santa Cruz
+//Yuwei Mao
+
 //game configuration
 let config = {
     type: Phaser.CANVAS,
