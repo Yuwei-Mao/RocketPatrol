@@ -1,3 +1,4 @@
+//CMPM 120
 //game configuration
 let config = {
     type: Phaser.CANVAS,
